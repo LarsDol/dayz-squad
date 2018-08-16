@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE squad SYSTEM "squad.dtd">
+
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick="UTS">
+	
+<name>Ultra Terror Squad</name>
+	
+<email></email>
+	
+<web></web>
+	
+<picture>logo.jpg</picture>
+	
+<title>Ultra Terror Squad</title>
+	
+
+<member id="38788166" nick="Darkstra">
+		
+<name>Lars</name>
+		
+<email>-</email>
+		
+<icq>-</icq>
+		
+<remark>Chabwallah</remark>
+	
+</member>
+	
+
+<member id="35332486" nick="Martin">
+		
+<name>Martin</name>
+		
+<email>-</email>
+		
+<icq>-</icq>
+		
+<remark>Boom Headshot.</remark>
+	</member>
+
+	
+<member id="43436230" nick="Bas Kolenberg">
+		
+<name>Bats (Zee)</name>
+		
+<email>-</email>
+		
+<icq>-</icq>
+		
+<remark>Scouting party.</remark>
+	
+</member>
+
+
+<member id="40487878" nick="Will">
+		
+<name>William</name>
+		
+<email>-</email>
+		
+<icq>-</icq>
+		
+<remark>Will I AM</remark>
+	
+</member>
+
+
+<member id="42948166" nick="Debiele Jopie">
+		
+<name>Bats (Sloot)</name>
+		
+<email>-</email>
+		
+<icq>-</icq>
+		
+<remark>Scouting party #2.</remark>
+	
+</member>
+
+
+
+</squad>
